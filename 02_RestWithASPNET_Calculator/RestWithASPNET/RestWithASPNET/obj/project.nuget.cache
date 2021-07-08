@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LiGyTjRasjg97g6cf8eudOI88VoX7VJv21D93/Cgc03I7eHM6zo+2eLE/FxJAFgWMAKxAcpR03HuQlftu217/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aurelio\\Documents\\RestWithASP-NET5\\RESTWithASP-NET5\\02_RestWithASPNET_Calculator\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aurelio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aurelio\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Aurelio\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}
